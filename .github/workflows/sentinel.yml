@@ -1,4 +1,4 @@
-name: Generate Sentinel Report
+name: Generate Sentinel Reportl
 
 on:
   repository_dispatch:
